@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin: auto;
+    padding: 20x;
+}
+header{
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.profile-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h4,h5,h6{
+    color: #11969e;
+}
+.header-contat{
+    float: right;
+    padding: 30px;
+}
+.header-contat a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.header-contat a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+/* <!-- Personal Section Start--> */
+#personal-section{
+    
+}
+.content{
+    margin-bottom: 30px;
+}
+
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: auto;
+}
+
+
+/* <!-- Personal Section Start--> */
+
+.edu-template-left{
+    float: left;
+    width: 45%;
+}
+
+.edu-template-right{
+    float: right;
+    width: 45%;
+}
+
+
